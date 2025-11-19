@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Guillermo Muñoz
+# Hi, I'm Guillermo Muñoz
 
 Game Engine Developer at MindArk | MSc in Game Design & Technology  
 I enjoy any type of low level programming, specially graphics programming! 📧 gmunozrodr@gmail.com

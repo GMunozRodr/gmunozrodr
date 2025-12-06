@@ -9,7 +9,7 @@ I enjoy any type of low level programming, specially graphics programming! 📧 
 
 ### Graphics & Tools
 
-- **[Rust-Pathtracer](https://github.com/GMunozRodr/Rust-Pathtracer)**
+- **[Rust-Pathtracer](https://github.com/GMunozRodr/Rust-Pathtracer)**  
   A fully featured path tracer in Rust, with a focus on optimization techniques.
 
 - **[Vulkan-Grassland](https://github.com/AsperTheDog/Vulkan-Grassland)**  

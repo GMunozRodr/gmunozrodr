@@ -9,9 +9,6 @@ I enjoy any type of low level programming, specially graphics programming! 📧 
 
 ### Graphics & Tools
 
-- **[Rust-Pathtracer](https://github.com/GMunozRodr/Rust-Pathtracer)**  
-  A fully featured path tracer in Rust, with a focus on optimization techniques.
-
 - **[Vulkan-Grassland](https://github.com/AsperTheDog/Vulkan-Grassland)**  
   High-performance mass grass renderer with wind simulation using Vulkan.
 
@@ -22,6 +19,9 @@ I enjoy any type of low level programming, specially graphics programming! 📧 
   Node-based visual scripting Discord bot with a web UI.
 
 ### Voxel & Raytracing Engines
+
+- **[Rust-Pathtracer](https://github.com/GMunozRodr/Rust-Pathtracer)**  
+  A fully featured path tracer in Rust, with a focus on optimization techniques.
   
 - **[GPU_SVOEngine](https://github.com/AsperTheDog/GPU_SVOEngine)**  
   Sparse Voxel Octree raytracer for voxelized 3D models (Vulkan).

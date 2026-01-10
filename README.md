@@ -1,4 +1,4 @@
-Game Engine Developer at MindArk | MSc in Game Design & Technology  
+Game Engine Developer | MSc in Game Design & Technology  
 I enjoy any type of low level programming, specially graphics programming!
 
 ---

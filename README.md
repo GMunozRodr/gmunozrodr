@@ -18,7 +18,7 @@ I enjoy any type of low level programming, specially graphics programming!
 
 ### Voxel & Raytracing Engines
 
-- **[Rust-Pathtracer](https://github.com/GMunozRodr/Rust-Pathtracer)**  
+- **[Rust-Pathtracer](https://github.com/AsperTheDog/Rust-Pathtracer)**  
   A fully featured path tracer in Rust, with a focus on optimization techniques.
   
 - **[GPU_SVOEngine](https://github.com/AsperTheDog/GPU_SVOEngine)**  
